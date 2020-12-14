@@ -10,5 +10,5 @@ Spark - same features of map/reduce but more
    - Native Python, Scala interface; interactive shells
    
 We will do some join exercises in spark:
-  - [Simple Join](https://github.com/eclipse707/Hadoop-Platform-And-Application-Framework/tree/master/spark/simple-join-assignment)
-  - [Advanced Join](https://github.com/eclipse707/Hadoop-Platform-And-Application-Framework/tree/master/spark/advanced-join-assignment)
+  - [Simple Join](https://github.com/eclipse707/Github_all_Projects_Hadoop_web_Dev_Python/tree/master/Hadoop_Projects/spark/simple-join-assignment)
+  - [Advanced Join](https://github.com/eclipse707/Github_all_Projects_Hadoop_web_Dev_Python/tree/master/Hadoop_Projects/spark/advanced-join-assignment)
